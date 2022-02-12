@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Krishnaprasad E K
-an aspiring React Js developer, movie lover
+an aspiring React Js developer,👨‍🎓 B-tech CSE,🎬 movie lover
 <br>
 age: 23
 <br>
@@ -21,6 +21,6 @@ Currently looking for front end developer, react js internship (location: Kochi,
 <br>
 
 - 🔭 I’m currently working on web development...
-- I am a self taught web developer
-- 🌱 I’m currently learning react js...
+- I am a self taught web developer, learned myself by refering youtube, google, stackoverflow etc..
+- 🌱 I’m currently learning ES6, React Js, Redux...
 
