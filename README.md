@@ -2,7 +2,7 @@
 
 I'm Krishnaprasad E K
 <br>
-an aspiring React Js developer,👨‍🎓 B-tech CSE,🎬 movie lover
+an aspiring React Js developer, B-tech cse, movie lover
 <br>
 age: 23
 <br>
