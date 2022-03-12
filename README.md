@@ -18,7 +18,7 @@ Education: Btech in CSE (ktu kerala, india)
 From: Kerala, India
 <br>
 <br>
-Currently looking for front end developer, react js internship (location: Kochi, kerala, india)
+Currently looking for front end developer, react js trainee jobs (location: Kochi, kerala, india)
 <br>
 
 - 🔭 I’m currently working on web development...
