@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Krishnaprasad E K
+I'm Krishnaprasad E K <br> <a href="http://www.linkedin.com/in/krishnaprasadek" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20"></a>
 <br>
-an aspiring Mern stack web developer, B.Tech CSE, Movie lover
+Mearn stack web developer intern @ Luminar Technolabs, B.Tech CSE, Movie lover
 <br>
-age: 23
+age: 24
 <br>
 
 My skills: html, css, javascript, c, c++, java
@@ -18,7 +18,7 @@ Education: Btech in CSE (ktu kerala, india)
 From: Kerala, India
 <br>
 <br>
-Currently looking for front end developer, react js trainee jobs (location: Kochi, kerala, india)
+<!-- Currently looking for front end developer, react js trainee jobs (location: Kochi, kerala, india) -->
 <br>
 
 - 🔭 I’m currently doing a certification course in Mearn Stack Web Development...
