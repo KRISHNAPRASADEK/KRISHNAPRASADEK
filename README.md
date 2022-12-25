@@ -9,16 +9,16 @@ age: 24
 
 My skills: html, css, javascript, c, c++, java
 <br>
-Experience: 4 months Web development internship in Websoullabs(startup located in palakkad, india)
+Experience: 4 months Web Development internship in Websoullabs(startup located in palakkad, india)
 <br>
-(technologies: react js, semantic ui, material ui, ui kit, html ,css, js, node js, mongodb, express js)
+(Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+,Angular JS, Node JS, MongoDB, Express JS)
 <br>
-Education: Btech in CSE (ktu kerala, india)
+Education: B.Tech in Computer Science & Engineering(KTU, Kerala, India)
 <br>
 From: Kerala, India
 <br>
 <br>
-<!-- Currently looking for front end developer, react js trainee jobs (location: Kochi, kerala, india) -->
+<!-- Currently looking for Front End Developer, React JS Trainee jobs (location: Kochi, Kerala, India) -->
 <br>
 
 - 🔭 I’m currently doing a certification course in Mearn Stack Web Development...
