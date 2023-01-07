@@ -7,7 +7,7 @@ Mearn stack web developer intern @ Luminar Technolabs, B.Tech CSE, Movie lover
 age: 24
 <br>
 
-My skills: html, css, javascript, c, c++, java
+My skills: HTML, CSS, JavaScript, C, C++, Java
 <br>
 Experience: 4 months Web Development internship in Websoullabs(startup located in palakkad, india)
 <br>
