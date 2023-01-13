@@ -9,7 +9,7 @@ age: 24
 
 My skills: Angular Js, Node Js, HTML, CSS, JavaScript, ES6+, C, C++, Java
 <br>
-Experience: 4 months Web Development internship in Websoullabs(startup located in palakkad, india)
+Experience: 4 months Web Development internship in <a href="https://www.websoullabs.com/">Websoullabs</a>
 <br>
 (Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+, Angular JS, Node JS, MongoDB, Express JS)
 <br>
