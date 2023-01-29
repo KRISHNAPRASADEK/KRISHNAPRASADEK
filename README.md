@@ -13,7 +13,7 @@ Experience: 4 months Web Development Internship in <a href="https://www.websoull
 <br>
 (Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+, Angular JS, Node JS, MongoDB, Express JS)
 <br>
-Education: B.Tech in Computer Science & Engineering(KTU, Kerala, India)
+Education: B.Tech in Computer Science & Engineering (KTU, Kerala, India)
 <br>
 From: Kerala, India
 <br>
