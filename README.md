@@ -7,20 +7,20 @@ Mearn Stack Web Developer @<a href="https://www.luminartechnolab.com/" target="_
 age: 24
 <br>
 
-My skills: React JS, Angular, Redux, Node Js, HTML, CSS, JavaScript, ES6+, C, C++, Java
+My skills: React JS, Angular, TypeScript, Redux, Node Js, HTML, CSS, JavaScript, ES6+, C, C++, Java
 <br>
 Experience: 4 months Web Development Internship in <a href="https://www.websoullabs.com/">Websoullabs</a>
 <br>
 &nbsp;&nbsp;&nbsp; - MERN STACK Certification course(5 Months) accredited by NACTET at Luminar Technolab, Kakkanad
 <br>
-(Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+, Angular, Node JS, MongoDB, Express JS)
+(Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+, Angular, TypeScript, Node JS, MongoDB, Express JS)
 <br>
 Education: B.Tech in Computer Science & Engineering (KTU, Kerala, India)
 <br>
 From: Kerala, India
 <br>
 <br>
-<!-- Currently looking for Front End Developer, React JS Trainee jobs (location: Kochi, Kerala, India) -->
+<!-- Currently looking for Front End Developer, React JS, Mern or Mean Trainee jobs (location: Kochi, Kerala, India) -->
 <br>
 
 - 🔭 I'have completed certification course in Mearn Stack Web Development (React & Angular)...
