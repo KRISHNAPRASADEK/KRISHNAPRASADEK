@@ -12,9 +12,9 @@ Junior Software Engineer at Seidor OpenTrends, B.Tech CSE
 <br>
 Experience: - 4 months Web Development Internship in <a href="https://www.websoullabs.com/">Websoullabs</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MERN STACK Certification course(5 Months) accredited by NACTET at Luminar Technolab, Kakkanad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MERN STACK Certification Course (5 Months) accredited by NACTET at Luminar Technolab, Kakkanad
 <br>
-(Technologies: React JS, Semantic ui, Material UI, UI Kit, HTML ,CSS, JavaScript, ES6+, Angular, TypeScript, Node JS, MongoDB, Express JS)
+(Technologies: React JS, Semantic UI, Material UI, UI Kit, HTML, CSS, JavaScript, ES6+, Angular, TypeScript, Node JS, MongoDB, Express JS)
 <br>
 <br>
 Education: B.Tech in Computer Science & Engineering (KTU, Kerala, India)
@@ -22,7 +22,7 @@ Education: B.Tech in Computer Science & Engineering (KTU, Kerala, India)
 From: Kerala, India
 <br>
 <br>
-<!-- Currently looking for Front End Developer, React JS, Mern or Mean Trainee jobs (location: Kochi, Kerala, India) -->
+<!-- Currently looking for Front End Developer, React JS, Mern or Mean Trainee jobs (Location: Kochi, Kerala, India) -->
 <br>
 
 - 🎓 have completed a certification course in Mearn Stack Web Development (React & Angular)...
